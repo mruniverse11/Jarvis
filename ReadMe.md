@@ -15,7 +15,7 @@ This project demonstrates practical usage of speech recognition, API integration
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python 3.13
 - SpeechRecognition
 - Wikipedia API
@@ -32,15 +32,17 @@ cd Jarvis
 
 Install dependencies
 pip install -r requirements.txt
+```
 
-###Usage
+## Usage
 
 Run the main application:
 
 python main.py
 
-
 Speak your query when prompted. Jarvis will process the input and return relevant information.
+
+---
 
 ## Project Structure
 Jarvis/
